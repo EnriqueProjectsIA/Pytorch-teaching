@@ -5,3 +5,4 @@
 * fullyConnected: Regression and classification tasks by using fully connected NN.
 * CNN: Classification by CNN.
 * RNN:Time series studies with recurrent neural network.
+* LSTM_for_NLP: Application of an LSTM to generate text by predicting the next character.
